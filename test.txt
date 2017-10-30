@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 44ED-1D7E
+
+ Directory of C:\Users\esaukun\Desktop\NewProj
+
+10/31/2017  03:27 AM    <DIR>          .
+10/31/2017  03:27 AM    <DIR>          ..
+10/31/2017  03:27 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  278,322,589,696 bytes free
